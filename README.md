@@ -10,15 +10,15 @@ Cloner ce projet depuis GitHub.
 
 Démarrer le Frontend
 * Executer `npm install` dans le terminal depuis le frontend 'cd frontend'
-* Démarrer `ng serve` ou `npm start` pour avoir accès au serveur de développement.
+* Démarrer `ng serve` ou `npm start` pour avoir accès au serveur de développement. 
 * Rendez-vous sur http://localhost:4200.
 
 ***
 
 Démarrer le Backend
-* Ouvrir le terminal et se placer dans le backend avec `cd backend`
+* Ouvrir le terminal et se placer dans le backend avec `cd backend`
 * Pour utiliser le serveur, chargez le package nodemon : `npm install -g nodemon`
-* Puis lancez le serveur: `nodemon server`
+* Puis lancez le serveur: `nodemon server`
 
 ***
 
