@@ -1,5 +1,3 @@
-// Formation OpenClassrooms - Développeur Web - Projet 6 - Thierry Laval
-
 // Ecoute des requetes http et reponse
 const http = require('http'); // Import du package http - https requiert un certificat SSL à obtenir avec un nom de domaine
 const app = require('./app'); // Import de app pour utilisation de l'application sur le serveur
